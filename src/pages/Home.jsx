@@ -13,7 +13,7 @@ export default function Home() {
 						<h1 className="text-3xl xs:text-4xl sm:text-5xl md:text-5xl lg:text-6xl font-extrabold mt-2 mb-4 leading-tight">
 							Fresh From
 							<br />
-							Farm to Your Store
+							Farm 2 Your Store
 						</h1>
 						<p className="text-gray-600 mb-6 max-w-md mx-auto md:mx-0 text-base sm:text-lg lg:text-xl">
 							Get the freshest produce and tasty treats from local farmers with direct-to-consumer and
